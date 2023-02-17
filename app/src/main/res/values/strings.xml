@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digimon API</string>
+    <string name="load_digimon">Load Digimon</string>
+</resources>
